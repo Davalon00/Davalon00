@@ -9,7 +9,7 @@ studying data classification through AI<br>
   - 🌐 [**Web**](https://github.com/stars/Davalon00/lists/web)
   - 🔨 [**Automations**](https://github.com/stars/Davalon00/lists/automations)
   - 🖥️ [**Hackathons**](https://github.com/stars/Davalon00/lists/hackathon)
-  - 🤖[**Data and AI**](https://github.com/stars/Davalon00/lists/data-and-ai)
+  - 🤖 [**Data and AI**](https://github.com/stars/Davalon00/lists/data-and-ai)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vmoraes) 
