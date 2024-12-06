@@ -5,6 +5,10 @@ Looking to learn and start my journey in tech<br>
 studying data classification through AI<br>
 [CISV](https://cisv.org/) Leader since 2018
 
+# 💼 Check What I'm up to:
+  - 🌐 [**Web**](https://github.com/stars/Davalon00/lists/web)
+  - 🔨 [**Automations**](https://github.com/stars/Davalon00/lists/automations)
+  - 🖥️ [**Hackathons**](https://github.com/stars/Davalon00/lists/hackathon)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vmoraes) 
